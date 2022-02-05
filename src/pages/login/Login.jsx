@@ -2,7 +2,7 @@ import React, { useState, useContext, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { Context } from '../../context/Context';
 import './Login.css'
-import axios from "./axios"
+import axios from '../../axios';
 
 export default function Login() {
 

@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from './axios';
 import React, { useContext } from 'react';
 import Sidebar from '../../component/sidebar/Sidebar';
 import { Context } from '../../context/Context';

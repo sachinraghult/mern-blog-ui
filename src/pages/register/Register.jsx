@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import './Register.css'
-import axios from 'axios';
+import axios from './axios';
 
 export default function Register() {
 

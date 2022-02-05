@@ -3,7 +3,7 @@ import Header from '../../component/header/Header';
 import Posts from '../../component/posts/Posts';
 import Sidebar from '../../component/sidebar/Sidebar';
 import './Home.css'
-import axios from "axios";
+import axios from "./axios";
 import { useLocation } from 'react-router-dom';
 
 export default function Home() {

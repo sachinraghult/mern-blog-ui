@@ -3,7 +3,7 @@ import Sidebar from '../../component/sidebar/Sidebar';
 import { Context } from '../../context/Context';
 import { Link } from 'react-router-dom';
 import './Settings.css'
-import axios from "axios"
+import axios from "./axios"
 
 export default function Settings() {
 
